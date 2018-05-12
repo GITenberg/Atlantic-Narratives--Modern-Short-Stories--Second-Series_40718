@@ -1,0 +1,155 @@
+_repo: Atlantic-Narratives--Modern-Short-Stories--Second-Series_40718
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40718-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Antin, Mary
+    alias: Grabau, Mary Antin
+    birthdate: &id001 1881
+    deathdate: 1949
+    gutenberg_agent_id: '9433'
+    url: http://www.gutenberg.org/2009/agents/9433
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Antin
+  - agent_name: Carman, Kathleen
+    gutenberg_agent_id: '40782'
+    url: http://www.gutenberg.org/2009/agents/40782
+  - agent_name: Wyatt, Edith
+    alias: Wyatt, Edith Franklin
+    birthdate: &id004 1873
+    deathdate: &id003 1958
+    gutenberg_agent_id: '1686'
+    url: http://www.gutenberg.org/2009/agents/1686
+  - agent_name: Comer, Cornelia A. P. (Cornelia Atwood Pratt)
+    aliases:
+    - Pratt, Cornelia Atwood
+    - Comer, Cornelia Atwood Pratt
+    gutenberg_agent_id: '36528'
+    url: http://www.gutenberg.org/2009/agents/36528
+  - agent_name: Townsend, Charles Haskins
+    alias: Townsend, C. H. (Charles Haskins)
+    birthdate: 1859
+    deathdate: 1944
+    gutenberg_agent_id: '40795'
+    url: http://www.gutenberg.org/2009/agents/40795
+  - agent_name: Ganoe, William Addleman
+    birthdate: *id001
+    gutenberg_agent_id: '40785'
+    url: http://www.gutenberg.org/2009/agents/40785
+  - agent_name: Portor, Laura Spencer
+    gutenberg_agent_id: '39344'
+    url: http://www.gutenberg.org/2009/agents/39344
+  - agent_name: Montague, Margaret Prescott
+    alias: Montague, Margaret Preston
+    birthdate: &id005 1878
+    deathdate: 1955
+    gutenberg_agent_id: '39291'
+    url: http://www.gutenberg.org/2009/agents/39291
+  - agent_name: Krysto, Christina
+    gutenberg_agent_id: '40789'
+    url: http://www.gutenberg.org/2009/agents/40789
+  - agent_name: Donnell, Annie Hamilton
+    birthdate: 1862
+    gutenberg_agent_id: '1192'
+    url: http://www.gutenberg.org/2009/agents/1192
+  - agent_name: Mackubin, Ellen
+    deathdate: 1915
+    gutenberg_agent_id: '40790'
+    url: http://www.gutenberg.org/2009/agents/40790
+  - agent_name: Eastman, Rebecca Hooper
+    gutenberg_agent_id: '40784'
+    url: http://www.gutenberg.org/2009/agents/40784
+  - agent_name: Nicholson, Meredith
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '4371'
+    url: http://www.gutenberg.org/2009/agents/4371
+    wikipedia: http://www.indianahistory.org/library/manuscripts/collection_guides/M0666.html
+  - agent_name: De la Roche, Mazo
+    aliases:
+    - La Roche, Mazo de
+    - Roche, Mazo de la
+    birthdate: &id002 1879
+    deathdate: 1961
+    gutenberg_agent_id: '31212'
+    url: http://www.gutenberg.org/2009/agents/31212
+  - agent_name: Singmaster, Elsie
+    aliases:
+    - Lewars, Harold, Mrs.
+    - Lewars, Mrs. Harold
+    birthdate: *id002
+    deathdate: *id003
+    gutenberg_agent_id: '40794'
+    url: http://www.gutenberg.org/2009/agents/40794
+  - agent_name: Norris, Kathleen Thompson
+    birthdate: 1880
+    deathdate: 1966
+    gutenberg_agent_id: '1247'
+    url: http://www.gutenberg.org/2009/agents/1247
+    wikipedia: http://en.wikipedia.org/wiki/Kathleen_Norris
+  - agent_name: Ashe, Elizabeth
+    alias: Pentlarge, Georgiana
+    gutenberg_agent_id: '39282'
+    url: http://www.gutenberg.org/2009/agents/39282
+  - agent_name: Huffaker, Lucy
+    gutenberg_agent_id: '40786'
+    url: http://www.gutenberg.org/2009/agents/40786
+  - agent_name: Dunning, James Edmund
+    birthdate: *id004
+    deathdate: 1931
+    gutenberg_agent_id: '40783'
+    url: http://www.gutenberg.org/2009/agents/40783
+  - agent_name: Morlae, Edward
+    alias: Morlae, E.
+    gutenberg_agent_id: '43892'
+    url: http://www.gutenberg.org/2009/agents/43892
+  - agent_name: Kemper, S. H.
+    gutenberg_agent_id: '40788'
+    url: http://www.gutenberg.org/2009/agents/40788
+  - agent_name: Husband, Joseph
+    birthdate: 1885
+    deathdate: 1938
+    gutenberg_agent_id: '40787'
+    url: http://www.gutenberg.org/2009/agents/40787
+  - agent_name: Mirrielees, Edith Ronald
+    birthdate: *id005
+    deathdate: 1962
+    gutenberg_agent_id: '40791'
+    url: http://www.gutenberg.org/2009/agents/40791
+  - agent_name: Pratt, Lucy
+    gutenberg_agent_id: '40793'
+    url: http://www.gutenberg.org/2009/agents/40793
+  editor:
+    agent_name: Thomas, Charles Swain
+    birthdate: 1868
+    deathdate: 1943
+    gutenberg_agent_id: '39293'
+    url: http://www.gutenberg.org/2009/agents/39293
+description: ''
+gutenberg_issued: '2012-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40718'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PN'
+tableOfContents: 'Introduction -- The lie / Mary Antin -- Blue reefers / Elizabeth
+  Ashe -- The debt / Kathleen Carman -- Seth Miles and the sacred fire / Cornelia
+  A. P. Comer -- Buried treasure / Mazo De La Roche -- The princess of make-believe
+  / Annie Hamilton Donnell -- The two apples / James Edmund Dunning -- The purple
+  star / Rebecca Hooper Eastman -- Ruggs: R.O.T.C. / William Addleman Ganoe -- The
+  way of life / Lucy Huffaker -- A year in a coal-mine / Joseph Husband -- Woman''s
+  sphere / S. H. Kemper -- Babanchik / Christina Krysto -- Rosita / Ellen Mackubin
+  -- Perjured / Edith Ronald Mirrielees -- What Mr. Grey said / Margaret Prescott
+  Montague     -- A Soldier of the Legion / E. Morlae -- The Boulevard of Rogues /
+  Meredith Nicholson -- What happened to Alanna / Kathleen Norris -- Spendthrifts
+  / Laura Spencer Portor -- Children wanted / Lucy Pratt -- The squire / Elsie Singmaster
+  -- Gregory and the scuttle / Charles Haskins Townsend -- In November / Edith Wyatt
+  -- Biographical and interpretative notes.'
+title: 'Atlantic Narratives: Modern Short Stories; Second Series'
+url: http://www.gutenberg.org/ebooks/40718
