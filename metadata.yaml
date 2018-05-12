@@ -7,7 +7,7 @@ creator:
   authors:
   - agent_name: Antin, Mary
     alias: Grabau, Mary Antin
-    birthdate: &id001 1881
+    birthdate: 1881
     deathdate: 1949
     gutenberg_agent_id: '9433'
     url: http://www.gutenberg.org/2009/agents/9433
@@ -17,8 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40782
   - agent_name: Wyatt, Edith
     alias: Wyatt, Edith Franklin
-    birthdate: &id004 1873
-    deathdate: &id003 1958
+    birthdate: 1873
+    deathdate: 1958
     gutenberg_agent_id: '1686'
     url: http://www.gutenberg.org/2009/agents/1686
   - agent_name: Comer, Cornelia A. P. (Cornelia Atwood Pratt)
@@ -34,7 +34,7 @@ creator:
     gutenberg_agent_id: '40795'
     url: http://www.gutenberg.org/2009/agents/40795
   - agent_name: Ganoe, William Addleman
-    birthdate: *id001
+    birthdate: 1881
     gutenberg_agent_id: '40785'
     url: http://www.gutenberg.org/2009/agents/40785
   - agent_name: Portor, Laura Spencer
@@ -42,7 +42,7 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39344
   - agent_name: Montague, Margaret Prescott
     alias: Montague, Margaret Preston
-    birthdate: &id005 1878
+    birthdate: 1878
     deathdate: 1955
     gutenberg_agent_id: '39291'
     url: http://www.gutenberg.org/2009/agents/39291
@@ -70,7 +70,7 @@ creator:
     aliases:
     - La Roche, Mazo de
     - Roche, Mazo de la
-    birthdate: &id002 1879
+    birthdate: 1879
     deathdate: 1961
     gutenberg_agent_id: '31212'
     url: http://www.gutenberg.org/2009/agents/31212
@@ -78,8 +78,8 @@ creator:
     aliases:
     - Lewars, Harold, Mrs.
     - Lewars, Mrs. Harold
-    birthdate: *id002
-    deathdate: *id003
+    birthdate: 1879
+    deathdate: 1958
     gutenberg_agent_id: '40794'
     url: http://www.gutenberg.org/2009/agents/40794
   - agent_name: Norris, Kathleen Thompson
@@ -96,7 +96,7 @@ creator:
     gutenberg_agent_id: '40786'
     url: http://www.gutenberg.org/2009/agents/40786
   - agent_name: Dunning, James Edmund
-    birthdate: *id004
+    birthdate: 1873
     deathdate: 1931
     gutenberg_agent_id: '40783'
     url: http://www.gutenberg.org/2009/agents/40783
@@ -113,7 +113,7 @@ creator:
     gutenberg_agent_id: '40787'
     url: http://www.gutenberg.org/2009/agents/40787
   - agent_name: Mirrielees, Edith Ronald
-    birthdate: *id005
+    birthdate: 1878
     deathdate: 1962
     gutenberg_agent_id: '40791'
     url: http://www.gutenberg.org/2009/agents/40791
@@ -127,6 +127,8 @@ creator:
     gutenberg_agent_id: '39293'
     url: http://www.gutenberg.org/2009/agents/39293
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40718#Atlantic-Narratives--Modern-Short-Stories--Second-Series
 gutenberg_issued: '2012-09-09'
 gutenberg_type: Text
 identifiers:
